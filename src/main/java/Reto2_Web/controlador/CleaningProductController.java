@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author USUARIO
  */
 @RestController
-@RequestMapping("/api/cleaningProduct")
+@RequestMapping("/api/cleaningproduct")
 @CrossOrigin("*")
 public class CleaningProductController {
        @Autowired
